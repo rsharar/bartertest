@@ -6,8 +6,8 @@ const keys = require('../config/keys');
 
 const strategy = new GoogleStrategy(
 	{
-		clientID: keys.google.clientID,
-		clientSecret: keys.google.clientSecret,
+		clientID: keys.CLIENTID,
+		clientSecret: keys.CLIENTSECRET,
 		callbackURL: '/auth/google/callback'
 	},
 	function(token, tokenSecret, profile, done) {
