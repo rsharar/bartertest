@@ -1,0 +1,13 @@
+#sidebar-items{
+    padding-top: 100px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.sidebar-link{
+    color: black;
+}
+
+.sidebar-link:hover{
+    color: blue;
+}

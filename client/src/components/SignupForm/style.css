@@ -1,0 +1,14 @@
+.SignupForm {
+        padding-left: 30px;
+        padding-right: 30px;
+        width: 500px
+}
+
+h4 {
+    padding-top: 20px;
+}
+
+#sign-up-btn {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

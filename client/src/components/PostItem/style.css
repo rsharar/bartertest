@@ -1,0 +1,32 @@
+.formElement {
+    width: 500px;
+}
+
+.select{
+    display: block;
+}
+
+h4 {
+    padding-top: 20px;
+}
+#categoryDropDown {
+    display: inline-block;
+}
+
+.formTitle {
+    font-size: 18px;
+}
+
+#postFormBtn {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.postItemFields {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#postItemForm {
+    margin-top: 50px;
+}
